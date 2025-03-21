@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rodrigo Munoz-Lara / Academic Webpage"
+title                    : "Academic Webpage"
 title_separator          : "-"
 name                     : &name "Rodrigo Muñoz Lara"
 description              : &description "personal description"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
