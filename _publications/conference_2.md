@@ -2,7 +2,7 @@
 title: "SCHC over DtS-IoT: Performance of SCHC Confirmation Modes in Satellite IoT"
 collection: publications
 category: conferences
-permalink: /publication/conference_2.md
+permalink: /publication/conference_2
 excerpt: 'Prueba'
 date: 2024-12-30
 venue: '2024 IEEE 10th World Forum on Internet of Things (WF-IoT)'
