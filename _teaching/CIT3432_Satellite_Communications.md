@@ -7,15 +7,9 @@ venue: "Diego Portales University, School of Computing and Telecommunications"
 date: 2025-03-01
 location: "Santiago, Chile"
 ---
+In the 21st century, although cities have the highest population density and access to communication services, there are still rural areas with low coverage, both wireless and wired. In these cases, satellite communications provide access to services such as the Internet, helping to reduce digital illiteracy and promoting digitisation in rural areas. In addition, satellites are key to connecting sensors and actuators in critical infrastructures located in remote places, such as power lines and gas or oil pipelines. For a future Civil Engineer in Computer Science and Telecommunications it is essential to be able to understand, model and design a satellite communications system. This implies knowing the different elements that compose it and the variety of services that can be implemented on this technology. In this context, this course provides the tools necessary to understand the transmission of information in satellite links, their orbital mechanics and the possible telecommunications services.
 
-Diego Portales University, School of Computing and Telecommunications
-
-# Course Description
-======
-
-Despite the urban population density in the 21st century, remote areas still lack access to communication services such as TV, radio, and Internet. These regions often have no wireless coverage through mobile technologies (3G/4G/5G, WiFi, WiMax) and are not reached by wired infrastructure like fibre optics or coaxial cable. In an increasingly connected world, satellite communications offer a solution by enabling internet access, helping to reduce digital illiteracy and promoting the digitalization of rural industries. Additionally, many companies rely on satellite connectivity to monitor critical infrastructure, such as power lines or oil and gas pipelines, using sensors and actuators. Understanding, modelling, and designing satellite communication systems is essential for a future Computer and Telecommunications Engineer. These tasks include knowing the components involved and the services they support. In this context, the course provides the necessary tools to understand information transmission in satellite links, orbital mechanics, and potential telecommunications services.
-
-# Course Teaching Semesters
+Course Teaching Semesters
 ======
 
  * 1st sem. 2025
