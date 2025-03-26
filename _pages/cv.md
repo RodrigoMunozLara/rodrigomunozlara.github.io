@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D(c) in Electrical Engineering, University of Chile, 2025 (expected)
+* M.Sc., Engineering Sciences, Electrical Engineering, University of Chile, 2020
+* B.Sc., Electronic Engineering, Federico Santa Maria Technical University, 2005
 
-Work experience
+Research Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **2020–2022**: Researcher & Project Lead, Fondef IDeA (ID19|10363)  
+  Developed low-cost hydrological monitoring sensors with LPWA (LoRa, Sigfox) for water management.
   
 Skills
 ======
@@ -46,19 +35,30 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Journals
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+1. R. Munoz-Lara et al., “SCHC over LoRaWAN Efficiency,” *Sensors*, vol. 22, no. 4, 2022.  
+   [Link](http://dx.doi.org/10.3390/s22041531)
+
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Supervision
 ======
-* Currently signed in to 43 different slack teams
+
+### University of Chile
+- **2020**: Carrasco Galdame, E. — [Thesis](https://repositorio.uchile.cl/handle/2250/179720) — _External examiner_
+
+### Diego Portales University
+- **2024**: Devia, B. — Electric Vehicle Charger Management — _Supervisor_  
+- **2024**: Ordenes, R. — Algiz WAF — _Committee member_  
+- **2023**: Muñoz, C. — Radar Emission Profiles — _Committee member_  
+- **2021**: Lara, F. — Email Address Validation — _Committee member_  
+- **2020**: Nakamura, M. — TSCH Scheduling — _Committee member_
