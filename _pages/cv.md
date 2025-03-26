@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 * Ph.D(c) in Electrical Engineering, University of Chile, 2025 (expected)
 * M.Sc., Engineering Sciences, Electrical Engineering, University of Chile, 2020
 * B.Sc., Electronic Engineering, Federico Santa Maria Technical University, 2005
 
 
 ## Publications
-======
+
 ### Journals
 
-1. R. Munoz-Lara, J. Saez Hidalgo, F. Canales, D. Dujovne, and S. Céspedes, “SCHC over Lo-
+ * R. Munoz-Lara, J. Saez Hidalgo, F. Canales, D. Dujovne, and S. Céspedes, “SCHC over Lo-
 RaWAN Efficiency: Evaluation and Experimental Performance of Packet Fragmentation,” Sensors,
 vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](http://dx.doi.org/10.3390/s22041531)
 
@@ -31,13 +31,12 @@ vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](
   {% endfor %}</ul>
 
 ## Research Projects
-======
 
 - **2020–2022**: Researcher & Project Lead, Fondef IDeA (ID19|10363)  
   Developed low-cost hydrological monitoring sensors with LPWA (LoRa, Sigfox) for water management.
   
 ## Skills
-======
+
 * Teaching software 
   * Signal Processing Software
     * Matlab
@@ -54,13 +53,12 @@ vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](
 * Teaching
 
 ## Teaching
-======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Supervision
-======
 
 ### University of Chile
 - **2020**: Carrasco Galdame, E. — Methodology for the selection of LPWAN technologies for various internet of things applications. — [Thesis](https://repositorio.uchile.cl/handle/2250/179720) — _External examiner_
