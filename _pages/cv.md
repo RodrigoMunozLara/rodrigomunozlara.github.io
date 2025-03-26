@@ -38,12 +38,20 @@ vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](
   
 ## Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching software 
+  * Signal Processing Software
+    * Matlab
+    * Numpy
+    * GNU Radio
+  * Network Computing Software
+    * Wireshark
+    * Tcpdump
+    * Cisco Packet Tracer
+    * GNS3 
+  * Simulation Software
+    * Omnet++
+* Telecommunications project management
+* Teaching
 
 ## Teaching
 ======
