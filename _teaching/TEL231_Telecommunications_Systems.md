@@ -2,7 +2,7 @@
 title: "TEL231 - Telecommunications Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/TEL231_Telecommunications Systems
+permalink: /teaching/TEL231_Telecommunications_Systems
 venue: "Technical University Federico Santa Maria, Electronic Department"
 date: 2024-08-01
 location: "Santiago, Chile"
