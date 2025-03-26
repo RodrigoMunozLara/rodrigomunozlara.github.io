@@ -2,7 +2,7 @@
 title: "Understanding and Characterizing Transmission Times for Compressed IP packets over LoRaWAN"
 collection: publications
 category: conferences
-permalink: /publication/conference_1.md
+permalink: /publication/conference_1
 excerpt: ''
 date: 2020-01-02
 venue: '2019 IEEE Latin-American Conference on Communications (LATINCOM)'
