@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CIT1000_Programming
 venue: "Diego Portales University, School of Computing and Telecommunications"
-date: 2024-03-01
+date: 2023-03-01
 location: "Santiago, Chile"
 ---
 

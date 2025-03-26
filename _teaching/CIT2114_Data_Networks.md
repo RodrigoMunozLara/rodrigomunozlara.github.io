@@ -17,3 +17,8 @@ Course Teaching Semesters
  * 2nd sem. 2023
  * 1st sem. 2023
  * 2nd sem. 2022
+ * 1st sem. 2022
+ * 2nd sem. 2021
+ * 1st sem. 2021
+ * 2nd sem. 2020
+ * 1st sem. 2020
