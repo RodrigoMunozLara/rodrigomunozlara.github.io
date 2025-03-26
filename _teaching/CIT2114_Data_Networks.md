@@ -2,7 +2,7 @@
 title: "CIT2114 - Data Networks"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/CIT2114_Data Networks
+permalink: /teaching/CIT2114_Data_Networks
 venue: "Diego Portales University, School of Computing and Telecommunications"
 date: 2024-03-01
 location: "Santiago, Chile"
