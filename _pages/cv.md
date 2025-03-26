@@ -9,19 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D(c) in Electrical Engineering, University of Chile, 2025 (expected)
 * M.Sc., Engineering Sciences, Electrical Engineering, University of Chile, 2020
 * B.Sc., Electronic Engineering, Federico Santa Maria Technical University, 2005
 
-Research Projects
+
+## Publications
+======
+### Journals
+
+1. R. Munoz-Lara, J. Saez Hidalgo, F. Canales, D. Dujovne, and S. Céspedes, “SCHC over Lo-
+RaWAN Efficiency: Evaluation and Experimental Performance of Packet Fragmentation,” Sensors,
+vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](http://dx.doi.org/10.3390/s22041531)
+
+### Conferences
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## Research Projects
 ======
 
 - **2020–2022**: Researcher & Project Lead, Fondef IDeA (ID19|10363)  
   Developed low-cost hydrological monitoring sensors with LPWA (LoRa, Sigfox) for water management.
   
-Skills
+## Skills
 ======
 * Skill 1
 * Skill 2
@@ -30,35 +45,25 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Journals
-======
-1. R. Munoz-Lara et al., “SCHC over LoRaWAN Efficiency,” *Sensors*, vol. 22, no. 4, 2022.  
-   [Link](http://dx.doi.org/10.3390/s22041531)
-
-
-
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Supervision
+## Supervision
 ======
 
 ### University of Chile
-- **2020**: Carrasco Galdame, E. — [Thesis](https://repositorio.uchile.cl/handle/2250/179720) — _External examiner_
+- **2020**: Carrasco Galdame, E. — Methodology for the selection of LPWAN technologies for various internet of things applications. — [Thesis](https://repositorio.uchile.cl/handle/2250/179720) — _External examiner_
 
 ### Diego Portales University
-- **2024**: Devia, B. — Electric Vehicle Charger Management — _Supervisor_  
-- **2024**: Ordenes, R. — Algiz WAF — _Committee member_  
-- **2023**: Muñoz, C. — Radar Emission Profiles — _Committee member_  
-- **2021**: Lara, F. — Email Address Validation — _Committee member_  
-- **2020**: Nakamura, M. — TSCH Scheduling — _Committee member_
+- **2024**: Devia, B. — Design and Implementation of a Management System for Electric
+Vehicle Chargers. — _Supervisor_  
+- **2024**: Ordenes, R. — Algiz WAF: Web application firewall with machine learningbased
+security layer. — _Committee member_  
+- **2023**: Muñoz, C. — Automatic generation of radar emission profiles by multi-target
+optimisation. — _Committee member_  
+- **2021**: Lara, F. — Alternative Method For Validating Email Addresses. — _Committee member_  
+- **2020**: Nakamura, M. — Sequence Prediction: Distributed Scheduling Function for Ipv6
+Networks over IEEE 802.15.4e TSCH Mode. — _Committee member_
