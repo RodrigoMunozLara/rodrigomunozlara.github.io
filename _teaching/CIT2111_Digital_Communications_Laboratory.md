@@ -19,3 +19,8 @@ Course Teaching Semesters
  * 2nd sem. 2021
  * 1st sem. 2021
 
+
+Official Course Program
+======
+[link](https://eit.udp.cl/cms/wp-content/uploads/2022/04/36-Comunicaciones-digitales_2.pdf)
+

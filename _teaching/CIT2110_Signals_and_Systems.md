@@ -15,3 +15,7 @@ Course Teaching Semesters
 
  * 1st sem. 2025
  * 2nd sem. 2024
+
+Official Course Program
+======
+[link](https://eit.udp.cl/cms/wp-content/uploads/2022/04/30-Senales-y-sistemas_2.pdf)

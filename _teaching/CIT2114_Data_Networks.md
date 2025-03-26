@@ -22,3 +22,7 @@ Course Teaching Semesters
  * 1st sem. 2021
  * 2nd sem. 2020
  * 1st sem. 2020
+
+Official Course Program
+======
+[link](https://eit.udp.cl/cms/wp-content/uploads/2022/04/15-Redes-de-datos_2.pdf)
