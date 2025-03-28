@@ -12,4 +12,4 @@ Welcome to my new website. You will find everything related to my research and t
 
 Current Research
 ======
-My main research focus is the SCHC standard (RFC 8724)[https://www.rfc-editor.org/rfc/rfc8724.html] and its performance in LPWAN. I am currently using Omnet++ for simulations and a real environment based on the RAKWireless solution (node and radio gateway). 
+My main research focus is the SCHC standard [RFC 8724](https://www.rfc-editor.org/rfc/rfc8724.html) and its performance in LPWAN. I am currently using Omnet++ for simulations and a real environment based on the RAKWireless solution (node and radio gateway). 
