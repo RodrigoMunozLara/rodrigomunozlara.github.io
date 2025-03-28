@@ -25,7 +25,7 @@ author:
   avatar           : "rml.jpg"
   name             : "Rodrigo Muñoz Lara"
   pronouns         : # example: "she/her"  
-  bio              : "I am passionate about telecommunications, electronics and nature."
+  bio              : "I am passionate about Telecommunications, Electronics and Nature."
   location         : "Santiago, Chile"
   employer         : "University of Chile"
   uri              : # URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "rodrigomunozlara"
+  linkedin         : #"rodrigomunozlara"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -86,11 +86,11 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -281,7 +281,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
