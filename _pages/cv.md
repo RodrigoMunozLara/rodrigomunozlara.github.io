@@ -18,13 +18,6 @@ redirect_from:
 
 ## Publications
 
-### Journals
-
- * R. Munoz-Lara, J. Saez Hidalgo, F. Canales, D. Dujovne, and S. Céspedes, “SCHC over Lo-
-RaWAN Efficiency: Evaluation and Experimental Performance of Packet Fragmentation,” Sensors,
-vol. 22, no. 4, p. 1531, Feb. 2022, doi: 10.3390/s22041531. Online. [Available](http://dx.doi.org/10.3390/s22041531)
-
-### Conferences
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
