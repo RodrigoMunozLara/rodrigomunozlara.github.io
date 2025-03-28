@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "My activity during the first half of 2025"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
