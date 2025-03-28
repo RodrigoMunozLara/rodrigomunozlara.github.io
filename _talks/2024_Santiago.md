@@ -8,12 +8,6 @@ date: 2024-08-08
 location: "Santiago, Chile"
 ---
 
+In this poster, I evaluated the performance of SCHC confirmation modes in Direct-to-Satellite IoT (DtS-IoT) using LoRaWAN. Through numerical modeling, we compared No-ACK, ACK-on-Error, and Compound ACK under various packet error rates. Results show that Compound ACK consistently offers the lowest transmission time and latency. The study also considers satellite visibility (Swarm constellation) and compares LoRa and LR-FHSS modulations, highlighting LoRa Data Rate 5 as the most efficient. This work supports the use of SCHC for IP-based communication in satellite LPWANs without terrestrial gateways.
+
 [See my presentation](https://youtu.be/mlII3NdBLRU?si=3ZyhuRfNTfTWmaBT)
-
-At the 2024 academic symposium, I presented a poster titled “SCHC Over DtS-IoT: Performance of SCHC Confirmation Modes in Satellite IoT”, which investigates the efficiency of different confirmation mechanisms defined by the SCHC standard in a Direct-to-Satellite Internet of Things (DtS-IoT) context.
-
-The study uses numerical modeling to evaluate transmission time and latency over LoRaWAN AU915-928, under varying packet error rates (PER). Three SCHC confirmation modes were compared: No-ACK, ACK-on-Error, and Compound ACK. Results show that SCHC Compound ACK consistently achieved the lowest transmission time and latency, regardless of PER or data rate. The evaluation also incorporates satellite pass and revisit times from the Swarm constellation to provide realistic latency estimates.
-
-Additionally, the study compares LoRa and LR-FHSS modulation schemes, highlighting that LoRa with Data Rate 5 offers the best trade-off between performance and efficiency.
-
-This work contributes to validating the use of SCHC in satellite-based LPWAN scenarios, supporting IP-based communications in constrained IoT networks without relying on terrestrial gateways.
