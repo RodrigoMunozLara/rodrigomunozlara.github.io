@@ -13,7 +13,7 @@ Welcome to my new website. You will find everything related to my research and t
 Welcome students to the autumn semester 2025
 ======
 
-This semester I will be teaching 5 subjects. Below you will find links to each of them with material that may be useful for your studies.
+This semester I will be teaching five courses. Below you will find links to each of them with material that may be useful for your studies.
 
  * [TEL222 - Fundamentals of Signal Transmission](https://rodrigomunozlara.github.io/teaching/TEL222_Fundamentals_of_Signal_Transmission)
  * [TEL101 - Introduction To Programming](https://rodrigomunozlara.github.io/teaching/TEL101_Introduction_To_Programming)
@@ -21,6 +21,3 @@ This semester I will be teaching 5 subjects. Below you will find links to each o
  * [CIT2110 - Signals and Systems](https://rodrigomunozlara.github.io/teaching/CIT2110_Signals_and_Systems)
  * [CIT2114 - Data Networks Laboratory](https://rodrigomunozlara.github.io/teaching/CIT2114_Data_Networks)
 
-# Research Topics
-
-My main research focus is the SCHC standard [RFC 8724](https://www.rfc-editor.org/rfc/rfc8724.html) and its performance in LPWAN. I am currently using Omnet++ for simulations and a real environment based on the RAKWireless solution (node and radio gateway). 
